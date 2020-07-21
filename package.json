@@ -32,8 +32,8 @@
     "mocha": "^5.2.0",
     "mocha-junit-reporter": "^2.0.0",
     "mocha-multi-reporters": "^1.1.7",
-    "supertest": "^4.0.2"
-    "nyc": "^15.1.0",
+    "supertest": "^4.0.2",
+    "nyc": "^15.1.0"
   },
   "bugs": {
     "url": "https://github.com/andrekolodochka/code-to-cloud-twitch-public/issues"
