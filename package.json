@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-inline-source": "^4.0.0",
     "mocha": "^5.2.0",
     "mocha-junit-reporter": "^1.18.0",
