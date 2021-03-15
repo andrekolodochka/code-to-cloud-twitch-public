@@ -26,7 +26,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.4",
     "gulp": "^4.0.2",
     "gulp-inline-source": "^4.0.0",
     "mocha": "^8.1.3",
